@@ -1,0 +1,8 @@
+{
+    "name": "tune",
+    "prefix": "$",
+    "playing": "$help",
+    "maxVol": 200,
+    "autoLeave": true,
+    "displayVoiceState":true
+}
